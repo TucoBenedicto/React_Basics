@@ -73,14 +73,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Github
 
 …or create a new repository on the command line
-echo "# D-butez-avec-React" >> README.md
+echo "# React_Basics" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:TucoBenedicto/D-butez-avec-React.git
+git remote add origin git@github.com:TucoBenedicto/React_Basics.git
 git push -u origin main
 …or push an existing repository from the command line
-git remote add origin git@github.com:TucoBenedicto/D-butez-avec-React.git
+git remote add origin git@github.com:TucoBenedicto/React_Basics.git
 git branch -M main
 git push -u origin main
